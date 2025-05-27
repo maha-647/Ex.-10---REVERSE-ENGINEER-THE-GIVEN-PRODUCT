@@ -32,20 +32,7 @@
 
 
 ### Output:
-![image](https://github.com/user-attachments/assets/e217330b-4af2-43e5-aa2a-aa08f4328cf3)
-
-![image](https://github.com/user-attachments/assets/45e00ba2-8895-43a6-938d-f261956fe294)
-
-![image](https://github.com/user-attachments/assets/09306e4b-8fa8-41ea-ad0c-1e15b614ec6f)
-
-
-![image](https://github.com/user-attachments/assets/24ec90dc-a044-4188-88b5-372e2a6dbf7d)
-
-
-![image](https://github.com/user-attachments/assets/32978501-3ea9-4fe4-bbc1-8ea2f2767775)
-### Output :
-
-![image](https://github.com/user-attachments/assets/e433f460-16c5-4b72-ada7-bedeced0e193)
+![image](https://github.com/user-attachments/assets/08fca4c5-4166-46ed-8dea-7f1d485d316b)
 
 
 ### Name: MAHALAKSSHMI MRIDULA.S
